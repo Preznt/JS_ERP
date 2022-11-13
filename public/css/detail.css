@@ -1,0 +1,28 @@
+/* table.detail {
+  display: flex;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+table.detail tbody {
+  display: flex;
+}
+
+table.detail th,
+td {
+  display: block;
+} */
+
+button.update {
+  background-color: rgb(168, 209, 188);
+}
+
+button.delete {
+  background-color: rgb(255, 141, 141);
+}
+
+button.add {
+  background-color: rgba(134, 174, 216, 0.61);
+}

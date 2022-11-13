@@ -1,0 +1,47 @@
+article {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 50px;
+}
+
+article input,
+label {
+  padding: 13px;
+  border-radius: 3px;
+  margin: 5px;
+  outline: none;
+}
+article input {
+  width: 50%;
+  margin: 10px;
+  border: 1px solid #aaa;
+}
+
+article label {
+  font-weight: 900;
+}
+
+article div.buttons button {
+  margin: 5px;
+}
+
+article form {
+  width: 50%;
+  text-align: center;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+div button.save {
+  background-color: rgb(255, 181, 181);
+}
+
+div button.restart {
+  background-color: rgb(168, 209, 188);
+}
+div button.list {
+  background-color: rgba(134, 174, 216, 0.61);
+}
