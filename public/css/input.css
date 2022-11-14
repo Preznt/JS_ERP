@@ -31,10 +31,6 @@ article form {
   text-align: center;
 }
 
-button:hover {
-  cursor: pointer;
-}
-
 div button.save {
   background-color: rgb(255, 181, 181);
 }

@@ -57,12 +57,12 @@ nav li:nth-of-type(6) {
   margin-left: auto;
 }
 
-section h1 {
+article h1 {
   margin: 50px;
   font-size: 50px;
 }
 
-section h2 {
+article h2 {
   margin: 42px 125px;
 }
 
@@ -116,4 +116,8 @@ div.button {
 
 button.input {
   background-color: rgba(151, 140, 189, 0.93);
+}
+
+button:hover {
+  cursor: pointer;
 }
